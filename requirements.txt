@@ -1,7 +1,6 @@
 pandas 
 dataclasses
-flask
-time
+python-time
 selenium
 requests
 requests_oauthlib
