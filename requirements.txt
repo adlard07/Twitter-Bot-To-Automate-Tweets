@@ -4,6 +4,5 @@ python-time
 selenium
 requests
 requests-oauthlib
-json
 configparser
 -e.
