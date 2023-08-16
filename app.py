@@ -84,4 +84,4 @@ for img in image_urls:
 
     print(f'Tweet successful!')
 
-    time.sleep(43200)
+    time.sleep(20)
