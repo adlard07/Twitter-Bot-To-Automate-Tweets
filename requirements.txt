@@ -1,0 +1,12 @@
+python_version=="3.9"
+pandas 
+dataclasses
+flask
+time
+selenium
+requests
+requests_oauthlib
+json
+configparser
+flask_cors
+-e.
