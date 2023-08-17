@@ -1,6 +1,6 @@
 # Twitter Bot
 
-Welcome to the Twitter Bot project! This project allows you to easily post tweets through a Python script using the Twitter API and user tokens. You have the flexibility to customize and extend the bot's functionality using your own classes and functions. To get started, follow the instructions below.
+Welcome to the Twitter Bot project! This project allows you to easily automate post tweets through a Python script using the Twitter API and user tokens. You have the flexibility to customize and extend the bot's functionality using your own classes and functions. To get started, follow the instructions below.
 
 
 ## Prerequisites
