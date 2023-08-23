@@ -13,6 +13,11 @@ Before using this Twitter bot, you need to have the following:
 
 **Note:** Keep your Twitter API credentials confidential and avoid sharing them in public repositories.
 
+## Compile The code
+You can compile the code my using the command 
+python -m app
+This command will compile app.py by using the administrator rights. The administrator rights are neccessory because there are a few permissions that need to be granted before the compilation of the code. 
+
 
 ## Customization
 
@@ -24,6 +29,6 @@ You can extend the functionality of the Twitter bot by modifying the existing cl
 If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
 
-Thank you for choosing the Twitter Bot project! If you have any questions or need assistance, please don't hesitate to contact me at adelarddcunha@gmail.com.
+Thank you for choosing the Twitter Bot project! If you have any questions or need assistance, please don't hesitate to contact me at adelarddcunha@gmail.com. And make sure tu have fun ;)
 
 Happy tweeting! 🐦🤖
