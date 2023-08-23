@@ -13,7 +13,7 @@ Before using this Twitter bot, you need to have the following:
 
 **Note:** Keep your Twitter API credentials confidential and avoid sharing them in public repositories.
 
-## Compile The code
+## Run code
 You can compile the code my using the command 
 python -m app
 This command will compile app.py by using the administrator rights. The administrator rights are neccessory because there are a few permissions that need to be granted before the compilation of the code. 
