@@ -15,9 +15,7 @@ Before using this Twitter bot, you need to have the following:
 
 ## Run code
 You can compile the code my using the command 
-'''python
-python -m app
-'''
+### python -m app
 This command will compile app.py by using the administrator rights. The administrator rights are neccessory because there are a few permissions that need to be granted before the compilation of the code. 
 
 
