@@ -1,6 +1,6 @@
 # Twitter Bot
 
-Welcome to the Twitter Bot project! This project allows you to easily automate post tweets through a Python script using the Twitter API and user tokens. You have the flexibility to customize and extend the bot's functionality using your own classes and functions. It utilizes web scraping with ChromeDriver to fetch memes from the web, and it also runs an image recognition bot to generate random and funny captions for the memes. The app is a lighthearted way to inject humor into your timeline whenever you need a study break or a laugh. To get started, follow the instructions below.
+Welcome to the Twitter Bot project! This project allows you to easily automate post tweets through a Python script using the Twitter API and user tokens. You have the flexibility to customize and extend the bot's functionality using your own classes and functions. It utilizes web scraping with ChromeDriver to fetch memes from the web, and it also runs an image recognition bot to generate random and funny captions for the memes. The app is a lighthearted way to inject humor into your timeline whenever you need a study break or a laugh. 
 
 
 ## Features
@@ -16,6 +16,9 @@ The app uses ChromeDriver to browse the web and find coding memes. It fetches th
 The image recognition bot analyzes each meme image to identify elements within the image.
 Based on the image's content, the bot generates a humorous and random caption.
 The app posts the meme with its caption to your Twitter account.
+
+To get started, follow the instructions below.
+
 
 ## Prerequisites
 
