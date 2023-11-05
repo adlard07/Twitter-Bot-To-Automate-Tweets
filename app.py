@@ -48,8 +48,6 @@ oauth = OAuth1Session(
 images = GetItems()
 image_urls = images.get_image() 
 
-count = 1
-
 for img in image_urls:
     image = requests.get(img).content
 
@@ -58,11 +56,9 @@ for img in image_urls:
     print(f"Got the media ID: {media_id}")
 
     tweet_params = {
-        "text": f"Day {count}! Lmaoo",
+        "text": f"Wait! What",
         "media": {"media_ids": ["{}".format(media_id)]}
         }
-
-    count+=1
 
     # Making the request
     response = oauth.post(
@@ -84,4 +80,4 @@ for img in image_urls:
 
     print(f'Tweet successful!')
 
-    time.sleep(20)
+    time.sleep(150)

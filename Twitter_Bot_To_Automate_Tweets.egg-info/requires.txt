@@ -1,0 +1,7 @@
+pandas
+dataclasses
+python-time
+selenium
+requests
+requests-oauthlib
+configparser

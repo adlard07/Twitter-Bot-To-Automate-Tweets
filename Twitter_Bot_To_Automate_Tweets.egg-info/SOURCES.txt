@@ -1,0 +1,7 @@
+README.md
+setup.py
+Twitter_Bot_To_Automate_Tweets.egg-info/PKG-INFO
+Twitter_Bot_To_Automate_Tweets.egg-info/SOURCES.txt
+Twitter_Bot_To_Automate_Tweets.egg-info/dependency_links.txt
+Twitter_Bot_To_Automate_Tweets.egg-info/requires.txt
+Twitter_Bot_To_Automate_Tweets.egg-info/top_level.txt
